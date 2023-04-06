@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;500&family=Tenor+Sans&display=swap);
+.firstScreen__result {
+  margin-top: 2em;
+  font-family: "Tenor Sans", sans-serif;
+}
+
+.firstScreen__result h2 {
+  padding: 0.5em;
+  font-size: 2rem;
+  line-height: 100%;
+}
+
+.firstScreen__result ul {
+  margin-left: 1em;
+  padding-left: 0.5em;
+  border-left: 0.1em solid #FC5C7D;
+  font-size: 1.2rem;
+  line-height: 100%;
+}
+
+.firstScreen__result > ul > li {
+  margin-bottom: 0.4em;
+}
+
+body {
+  max-width: 600px;
+}

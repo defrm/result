@@ -1,0 +1,26 @@
+.firstScreen__result {
+    margin-top: 2em;
+
+    font-family: $Tenor;
+}
+
+.firstScreen__result h2 {
+    padding: 0.5em;
+
+    font-size: $h2;
+    line-height: 100%;
+}
+
+.firstScreen__result ul {
+    margin-left: 1em;
+    padding-left: .5em;
+
+    border-left: .1em solid $Pink;
+    
+    font-size: $Text19;
+    line-height: 100%;
+}
+
+.firstScreen__result > ul > li  {
+    margin-bottom: .4em;
+}
