@@ -11,6 +11,7 @@
 }
 
 .firstScreen__result ul {
+  margin-top: 1rem;
   margin-left: 1em;
   padding-left: 0.5em;
   border-left: 0.1em solid #FC5C7D;
